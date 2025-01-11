@@ -1,4 +1,4 @@
-# Speech Emotion Recognition Using RNN/LSTM
+# Speech Emotion Recognition 
 
 ## Project Overview
 This project focuses on the development of a Speech Emotion Recognition (SER) system that identifies and classifies emotions in spoken language. The system uses Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) networks to process and analyze speech data, enabling real-time emotion detection based on pitch, tone, and rhythm.
